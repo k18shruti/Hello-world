@@ -1,2 +1,3 @@
 # Hello-world
-Initial reposotory
+Initial repository
+Git tutorial
